@@ -1,29 +1,29 @@
 {
   "categories": [
     {
-      "id": "tools",
-      "name": "Barber Tools"
+      "id": "tools ",
+      "name": "Barber Tools 4 fools"
     },
     {
       "id": "attire",
-      "name": "Barber Attire"
+      "name": "Barber Attire Cryer"
     }
   ],
   "items": [
     {
       "id": "tool-1",
       "category": "tools",
-      "name": "Supernova Zero-Gap Clipper",
-      "price": 249.99,
+      "name": "Supernova Zero-Gap Clipper Hipster",
+      "price": 9249.99,
       "description": "Magnetic levitation motor delivering 15,000 RPM with plasma-coated titanium titanium blades.",
-      "badge": "BEST SELLER",
+      "badge": "BEST SELLER Bob",
       "image": "/images/clipper.svg"
     },
     {
       "id": "tool-2",
       "category": "tools",
       "name": "Quantum Precision Trimmer",
-      "price": 189.50,
+      "price": 189.5,
       "description": "Laser-guided edge lining alignment with zero skin friction thermal dissipation tech.",
       "badge": "NEW",
       "image": "/images/trimmer.svg"
@@ -32,7 +32,7 @@
       "id": "tool-3",
       "category": "tools",
       "name": "Photon Laser Shaver",
-      "price": 159.00,
+      "price": 159,
       "description": "Dual-ring infrared mesh cutting head designed for silky smooth skin-head fades.",
       "badge": "HOT ITEM",
       "image": "/images/shaver.svg"
@@ -41,7 +41,7 @@
       "id": "tool-4",
       "category": "tools",
       "name": "Nebula Ion Blow Dryer",
-      "price": 210.00,
+      "price": 210,
       "description": "Hyper-sonic ion generator dries hair instantly without thermal structural damage.",
       "badge": "PRO CUT",
       "image": "/images/dryer.svg"
@@ -59,7 +59,7 @@
       "id": "attire-1",
       "category": "attire",
       "name": "Anti-Gravity Barber Cape",
-      "price": 75.00,
+      "price": 75,
       "description": "Static-deflecting nanotech mesh repels fallen hair particles instantly into orbital vacuum.",
       "badge": "POPULAR",
       "image": "/images/cape.svg"
@@ -77,7 +77,7 @@
       "id": "attire-3",
       "category": "attire",
       "name": "Holographic Barber Jacket",
-      "price": 149.50,
+      "price": 149.5,
       "description": "Iridescent fiber-optic fabric changes hue based on ambient salon lighting.",
       "badge": "NEW ARRIVAL",
       "image": "/images/jacket.svg"
@@ -86,7 +86,7 @@
       "id": "attire-4",
       "category": "attire",
       "name": "Zero-G Grip Barber Sneakers",
-      "price": 180.00,
+      "price": 180,
       "description": "Cushioned air-pod soles engineered for 12-hour continuous standing comfort.",
       "badge": "STAFF FAVORITE",
       "image": "/images/shoes.svg"
