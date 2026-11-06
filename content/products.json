@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "id": "tools",
+      "name": "Barber Tools"
+    },
+    {
+      "id": "attire",
+      "name": "Barber Attire"
+    }
+  ],
+  "items": [
+    {
+      "id": "tool-1",
+      "category": "tools",
+      "name": "Supernova Zero-Gap Clipper",
+      "price": 249.99,
+      "description": "Magnetic levitation motor delivering 15,000 RPM with plasma-coated titanium titanium blades.",
+      "badge": "BEST SELLER",
+      "image": "/images/clipper.svg"
+    },
+    {
+      "id": "tool-2",
+      "category": "tools",
+      "name": "Quantum Precision Trimmer",
+      "price": 189.50,
+      "description": "Laser-guided edge lining alignment with zero skin friction thermal dissipation tech.",
+      "badge": "NEW",
+      "image": "/images/trimmer.svg"
+    },
+    {
+      "id": "tool-3",
+      "category": "tools",
+      "name": "Photon Laser Shaver",
+      "price": 159.00,
+      "description": "Dual-ring infrared mesh cutting head designed for silky smooth skin-head fades.",
+      "badge": "HOT ITEM",
+      "image": "/images/shaver.svg"
+    },
+    {
+      "id": "tool-4",
+      "category": "tools",
+      "name": "Nebula Ion Blow Dryer",
+      "price": 210.00,
+      "description": "Hyper-sonic ion generator dries hair instantly without thermal structural damage.",
+      "badge": "PRO CUT",
+      "image": "/images/dryer.svg"
+    },
+    {
+      "id": "tool-5",
+      "category": "tools",
+      "name": "Cosmic Titanium Shears Set",
+      "price": 299.99,
+      "description": "Hand-forged obsidian titanium alloy blades engineered for effortless slide cuts.",
+      "badge": "LIMITED EDITION",
+      "image": "/images/shears.svg"
+    },
+    {
+      "id": "attire-1",
+      "category": "attire",
+      "name": "Anti-Gravity Barber Cape",
+      "price": 75.00,
+      "description": "Static-deflecting nanotech mesh repels fallen hair particles instantly into orbital vacuum.",
+      "badge": "POPULAR",
+      "image": "/images/cape.svg"
+    },
+    {
+      "id": "attire-2",
+      "category": "attire",
+      "name": "Cybernetic Armor Apron",
+      "price": 129.99,
+      "description": "Waterproof, bleach-resistant exo-layer featuring magnetic utility tool belts.",
+      "badge": "MUST HAVE",
+      "image": "/images/apron.svg"
+    },
+    {
+      "id": "attire-3",
+      "category": "attire",
+      "name": "Holographic Barber Jacket",
+      "price": 149.50,
+      "description": "Iridescent fiber-optic fabric changes hue based on ambient salon lighting.",
+      "badge": "NEW ARRIVAL",
+      "image": "/images/jacket.svg"
+    },
+    {
+      "id": "attire-4",
+      "category": "attire",
+      "name": "Zero-G Grip Barber Sneakers",
+      "price": 180.00,
+      "description": "Cushioned air-pod soles engineered for 12-hour continuous standing comfort.",
+      "badge": "STAFF FAVORITE",
+      "image": "/images/shoes.svg"
+    },
+    {
+      "id": "attire-5",
+      "category": "attire",
+      "name": "Star-Fleet Fade Gloves",
+      "price": 34.99,
+      "description": "Tactile heat-resistant silicone grip gloves for slip-free high-speed trimming.",
+      "badge": "ESSENTIAL",
+      "image": "/images/gloves.svg"
+    }
+  ]
+}

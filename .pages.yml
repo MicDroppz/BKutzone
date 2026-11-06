@@ -1,0 +1,43 @@
+media:
+  input: images
+  output: /images
+content:
+  - name: site
+    label: Site Settings
+    type: file
+    path: content/site.json
+    fields:
+      - { name: title, label: Site Title, type: string }
+      - { name: tagline, label: Tagline, type: string }
+      - { name: hero_headline, label: Hero Headline, type: string }
+      - { name: hero_subtext, label: Hero Subtext, type: string }
+      - { name: hero_cta_button, label: Hero Button Text, type: string }
+      - { name: nav_home, label: Nav Home, type: string }
+      - { name: nav_tools, label: Nav Tools, type: string }
+      - { name: nav_attire, label: Nav Attire, type: string }
+      - { name: nav_cart, label: Nav Cart, type: string }
+      - { name: footer_text, label: Footer Text, type: string }
+  - name: products
+    label: Store Products
+    type: file
+    path: content/products.json
+    fields:
+      - name: categories
+        label: Categories
+        type: object
+        list: true
+        fields:
+          - { name: id, label: Category ID, type: string }
+          - { name: name, label: Category Name, type: string }
+      - name: items
+        label: Product Items
+        type: object
+        list: true
+        fields:
+          - { name: id, label: Product ID, type: string }
+          - { name: category, label: Category ID, type: string }
+          - { name: name, label: Product Name, type: string }
+          - { name: price, label: Price ($), type: number }
+          - { name: description, label: Description, type: text }
+          - { name: badge, label: Badge, type: string }
+          - { name: image, label: Image, type: image }
