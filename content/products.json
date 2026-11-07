@@ -7,6 +7,10 @@
     {
       "id": "attire",
       "name": "Barber Attire Cryer"
+    },
+    {
+      "id": "Buggin",
+      "name": "J Buggin"
     }
   ],
   "items": [
@@ -99,6 +103,7 @@
       "description": "Tactile heat-resistant silicone grip gloves for slip-free high-speed trimming.",
       "badge": "ESSENTIAL",
       "image": "/images/gloves.svg"
-    }
+    },
+    {}
   ]
 }
