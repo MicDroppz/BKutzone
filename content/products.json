@@ -103,6 +103,15 @@
       "description": "Tactile heat-resistant silicone grip gloves for slip-free high-speed trimming.",
       "badge": "ESSENTIAL",
       "image": "/images/gloves.svg"
+    },
+    {
+      "id": "buggin-1",
+      "category": "buggin",
+      "name": "Chest Shaver",
+      "price": 350,
+      "description": "shaves pecs with ease",
+      "badge": "mans friend",
+      "image": "/images/Gemini_Generated_Image_nhteabnhteabnhte.jpg"
     }
   ]
 }
